@@ -1,3 +1,4 @@
+![logo](https://github.com/RajatKumar5537/RajatKumar5537/blob/main/279707.jpg)
 <h1 align="center">Hi 👋, I'm Rajat Kumar Pradhan</h1>
 <h3 align="center">A passionate Automation Test Engineer from India</h3>
 
