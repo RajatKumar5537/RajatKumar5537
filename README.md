@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Jiviews**
 
-- 🌱 I’m currently learning **Hybride Framework**
+- 🌱 I’m currently learning **Cucumber Framework**
 
 - 👯 I’m looking to collaborate on **Testing**
 
