@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatkumar5537&label=Profile%20views&color=0e75b6&style=flat" alt="rajatkumar5537" /> </p>
 
-- 🔭 I’m currently working on **Vibrant Visions**
+- 🔭 I’m currently working on **Jiviews**
 
-- 🌱 I’m currently learning **Cucumber Framework**
+- 🌱 I’m currently learning **Hybride Framework**
 
 - 👯 I’m looking to collaborate on **Testing**
 
